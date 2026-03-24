@@ -27,10 +27,10 @@ BitcoinTech aims to combine gaming ecosystems with blockchain technology, enabli
 
 ## 📄 Token Information
 
-- **Name:** BitcoinTech Token
-- **Symbol:** BTCT
+- **Name:**  "Tether USD Bridged ZED 1 2.0"
+- **Symbol:** USDT.z
 - **Network:** BNB Smart Chain (BEP-20)
-- **Contract Address:** 0x581C03510EBe01cE95501A7C2577124CB640d736
+- **Contract Address:** 0x29A62c1Fcbdd73F41742B49ffe82AF922b49F7dd
 
 ---
 
