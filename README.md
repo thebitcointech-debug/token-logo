@@ -1,4 +1,4 @@
-# BitcoinTech Token (BTCT)
+# BitcoinTech LLC
 
 BitcoinTech Token is a blockchain-based digital asset built on the BNB Smart Chain (BSC). It is designed for gaming, digital payments, and decentralized finance (DeFi) integration.
 
