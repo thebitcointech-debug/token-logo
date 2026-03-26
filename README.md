@@ -30,7 +30,7 @@ BitcoinTech aims to combine gaming ecosystems with blockchain technology, enabli
 - **Name:**  "Tether USD Bridged ZED 1 2.0"
 - **Symbol:** USDT.z
 - **Network:** BNB Smart Chain (BEP-20)
-- **Contract Address:** 0x29A62c1Fcbdd73F41742B49ffe82AF922b49F7dd
+- **Contract Address:** 0x19A29ce800CF6cd5442619961E74e0C9674023B2
 
 ---
 
